@@ -1,0 +1,23 @@
+.BeautifullScreen {
+    width: 500px;
+    height: fit-content;
+    border-radius: 3%;
+    background-color: aqua;
+    margin-bottom: 1%;
+}
+
+.Sign {
+    margin: 0;
+    margin-right: 20px;
+    font-size: 30px;
+    text-align: right;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.Calculus {
+    margin: 0;
+    margin-right: 20px;
+    font-size: 50px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
